@@ -1,13 +1,7 @@
-anvesh redddxdfcgvbhjn kml
-nhbgvfc sx
-hb gfdvcxz
-bgvfdcxz
-hgbfvc x
-zdhnbgfvcs
-xnhddbgfdc
-xdhnbgvfds
-xhdbgvfdcs
-xhbgvfds
+package oata;
 
-abcdefghijklmnopqrstuvwxyz
-reddys:
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
